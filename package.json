@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.2.0",
 	"author": "Victor",
 	"description": "Package for practicing npm",
 	"keywords": ["freecodecamp", "test", "programming"],
